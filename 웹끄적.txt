@@ -1,0 +1,46 @@
+standard jar el 사용하기 위해 필요한 jar el 개쩜
+el 나누기 div 몫 mod
+el 문자열 "4" 숫자로 연산 가능..
+el은 null값도 0으로 인식 연산
+null empty 은 다르다 
+empty 비교연산 가능
+
+사용자의 아이디 알아볼..
+jstl?
+<c: = 코어태그
+<c:if test="조건식">이 맞으면
+이부분 안에 실행 
+
+
+다른 jar 왜 필요하다고 했ㅈ..
+
+submit - 전송타입 버튼?
+
+전송 데이터는 el로 불러올수 없다.?
+->파라미터로 전송한 데이터는 el로 불러올수 없고
+Attribute로 이용하여 el 사용
+
+근데 param. 문법으로 사용 가능..?
+param 전송되어진 데이터?
+
+input에 옵션 값을 넣었을 경우 ..
+
+test06
+<c: when 그랬을때
+varStatus 순번을 정해줄 수 있다?
+
+delims 구분자 
+- / , . 구분자를 토큰이라 한다
+구분자가 다를 경우 순대로 다 넣어준다
+
+test07
+parseNumber 표시형식 변환
+
+dispatch rul 은 보낸 페이지 표시, 페이지 내용은 포워드 받은 페이지
+forword 전달 
+열고 닫고 하면 사이에 다른 요소값 추가 가능
+
+
+
+
+
